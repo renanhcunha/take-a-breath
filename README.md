@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido durante a trilha de React Next Level Week 4 da [Ro
 
 No GIF abaixo é possível ver uma demonstração da aplicação funcionando com tempo de ciclo para 6 segundos para uma demonstração mais rápida (o tempo original do ciclo na aplicação é de 25 minutos).
 
-<img src="./public/take-a-breath.gif">
+<img src="./public/take-a-breath.gif" alt="Take a breath">
 
 ## Teste da aplicação
 Foi realizado o deploy da aplicação através do Vercel, segue o [link](https://take-a-breath.vercel.app) para teste.
